@@ -1,7 +1,7 @@
 # Shop Cart
 
 A modern e-commerce shopping cart application built with React, TypeScript, and Tailwind CSS.
-🌐 [Live Demo](https://shop-cart-demo.vercel.app) | [Repository](https://github.com/Vija047/shop-cart)
+🌐 [Live Demo](https://shop-cart-gamma.vercel.app/) | [Repository](https://github.com/Vija047/shop-cart)
 ## Features
 
 -  Product listing with images and details
